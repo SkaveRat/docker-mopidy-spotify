@@ -1,0 +1,6 @@
+[mpd]
+hostname = ::
+
+[spotify]
+username = alice
+password = mysecret
