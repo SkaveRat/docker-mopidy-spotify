@@ -3,6 +3,11 @@ docker.io Mopidy - Spotify MPD Server
 
 Simple MPD server with Spotify connection. 
 
+Clone it
+--------
+
+`git clone https://github.com/SkaveRat/docker-mopidy-spotify.git && cd docker-mopidy-spotify`
+
 
 Configure it
 ------------
@@ -15,7 +20,7 @@ For complete configuration options, see http://docs.mopidy.com/en/latest/config/
 Build it
 --------
 
-docker build -t mopidy .
+`docker build -t mopidy .`
 
 
 Run it
