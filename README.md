@@ -7,7 +7,7 @@ Simple MPD server with Spotify connection.
 Configure it
 ============
 
-Copy the `mopidy.conf.dist` to `mopidy.conf` and edit it to fit your needs.
+Edit the `mopidy.conf` to fit your needs. You need to at least enter your Spotify details.
 
 For complete configuration options, see http://docs.mopidy.com/en/latest/config/
 
