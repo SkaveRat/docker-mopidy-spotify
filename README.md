@@ -3,6 +3,8 @@ docker.io Mopidy - Spotify MPD Server
 
 Simple MPD server with Spotify connection. 
 
+**Currently non-functional. Working on Pulseaudio integration**
+
 Clone it
 --------
 
